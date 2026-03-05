@@ -70,9 +70,6 @@ Some insights derived from the dashboard include:
 📷 Dashboard Preview
  
 <img width="979" height="551" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/69d542b6-8dd6-4d11-8185-6ccf723986f0" />
-_______________________________
 
-👤Nandini
-Aspiring Data Analyst
 
 
